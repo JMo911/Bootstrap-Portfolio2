@@ -1,3 +1,7 @@
+body{
+    background-image: url("http://api.thumbr.it/whitenoise-361x370.png?");
+}
+
 .line{
     background-color: silver;
     height: 0.4em;
