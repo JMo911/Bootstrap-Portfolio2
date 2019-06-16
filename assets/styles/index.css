@@ -1,0 +1,12 @@
+.line{
+    background-color: silver;
+    height: 0.4em;
+    width: 100%;
+    opacity: 0.4;
+    border-radius: 0.5em;
+    margin-bottom: 1em;
+}
+
+#profilePic{
+    height: 30em;
+}
