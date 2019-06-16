@@ -1,0 +1,10 @@
+.projectDiv{
+    position: relative;
+}
+
+
+.projectTitle{
+    position: absolute;
+    bottom: 0;
+    
+}

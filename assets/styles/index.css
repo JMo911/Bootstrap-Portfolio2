@@ -2,6 +2,31 @@ body{
     background-image: url("http://api.thumbr.it/whitenoise-361x370.png?");
 }
 
+/* NAV STYLING */
+.nav-link{
+    border-left: 0.1em silver solid;
+    color: black !important;
+    opacity: 0.7;
+}
+
+
+
+#aboutNavLink{
+    border-left: none;
+}
+/* .nav-link{
+    border-left: 0.1em silver solid;
+    opacity: 0.6;
+}
+
+.nav-link:first-child{
+    border-left: none;
+} */
+
+
+
+
+/* MAIN BODY CARD STYLING */
 .line{
     background-color: silver;
     height: 0.4em;
@@ -14,3 +39,13 @@ body{
 #profilePic{
     height: 30em;
 }
+
+#bodyContainer{
+    background-color: aliceblue;
+    border: 0.1em solid silver;
+    border-radius: 0.2em;
+    padding: 1em 2em 1em 2em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
