@@ -13,6 +13,13 @@ body{
     border-left: none;
 }  
 
+@media only screen and (max-width: 1200px) {
+.nav-item{
+    width: 33%;
+    text-align: center;
+}
+}
+
 #aboutNavLink{
     border-left: none;
 }
