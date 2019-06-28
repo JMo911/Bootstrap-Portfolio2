@@ -48,3 +48,8 @@ body{
     margin-bottom: 2em;
 }
 
+/* .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  } */

@@ -1,5 +1,7 @@
 .projectDiv{
     position: relative;
+    border: 1px solid black;
+    margin-top: 0.3rem;
 }
 
 
@@ -8,6 +10,6 @@
     bottom: 0;
     color: white;
     background-color: navy;
-
+    
     
 }
