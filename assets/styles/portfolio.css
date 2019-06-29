@@ -1,15 +1,10 @@
 .projectDiv{
-    position: relative;
     border: 1px solid black;
     margin-top: 0.3rem;
+    background-color: steelblue;
+    border-radius: 0.2em;
+    padding-top: 5px;
 }
 
 
-.projectTitle{
-    position: absolute;
-    bottom: 0;
-    color: white;
-    background-color: navy;
-    
-    
-}
+
