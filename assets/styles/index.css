@@ -3,6 +3,10 @@ body{
 }
 
 /* NAV STYLING */
+.navbar{
+    border-bottom: 0.1em solid silver;
+}
+
 .nav-link{
     border-left: 0.1em silver solid;
     color: black !important;
@@ -48,8 +52,7 @@ body{
     margin-bottom: 2em;
 }
 
-/* .clearfix::after {
-    content: "";
-    clear: both;
-    display: table;
-  } */
+/* FOOTER STYLING */
+.footer{
+    border-top: 0.1em solid silver;
+}
