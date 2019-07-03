@@ -55,4 +55,7 @@ body{
 /* FOOTER STYLING */
 .footer{
     border-top: 0.1em solid silver;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
